@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:17150f,55:3b1d0e,100:c2410c&height=170&section=header&text=Alan%20Balcerowiak&fontSize=58&fontColor=f3efe6&fontAlignY=38&desc=AI%20Solutions%20Engineer%20%C2%B7%20on-prem%20LLM%20%26%20RAG&descSize=18&descAlignY=60&descColor=f3efe6&animation=fadeIn" width="100%" alt="Alan Balcerowiak — AI Solutions Engineer"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img alt="Alan Balcerowiak — AI Solutions Engineer" src="assets/banner-light.svg" width="100%">
+</picture>
 
 <h3>I build RAG that says <i>“I don't know”</i> — enforced by architecture, not by the prompt.</h3>
 
