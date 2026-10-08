@@ -15,7 +15,7 @@ I design and ship **on-premise LLM and RAG systems** on the Polish model **Bieli
 
 ### What I work on
 
-| | |
+| Area | What I build |
 |---|---|
 | **On-prem RAG** | Answers grounded in company documents, with cited sources and enforced refusal |
 | **Tool-calling assistants** | Answers built from tool results, read-only enforced by design |
