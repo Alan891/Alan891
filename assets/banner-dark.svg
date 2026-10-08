@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="300" viewBox="0 0 1280 300" role="img" aria-label="Alan Balcerowiak — AI Solutions Engineer">
+  <rect width="1280" height="300" fill="#0d1117"/>
+  <g stroke="#a8a296" stroke-opacity=".10"><line x1="0" y1="60" x2="1280" y2="60"/><line x1="0" y1="120" x2="1280" y2="120"/><line x1="0" y1="180" x2="1280" y2="180"/><line x1="0" y1="240" x2="1280" y2="240"/></g>
+  <text x="80" y="70" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" letter-spacing="3" fill="#a8a296" fill-opacity=".7">KRAKÓW · ON-PREM LLM &amp; RAG · BIELIK</text>
+  <text x="76" y="160" font-family="Inter,Segoe UI,Helvetica,Arial,sans-serif" font-size="78" font-weight="700" letter-spacing="-2" fill="#f0ece2">Alan Balcerowiak</text>
+  <text x="80" y="210" font-family="Inter,Segoe UI,Helvetica,Arial,sans-serif" font-size="28" fill="#a8a296">AI Solutions Engineer — <tspan fill="#c2410c">RAG that says “I don’t know”</tspan> by design</text>
+  <rect x="80" y="240" width="96" height="3" fill="#c2410c"/>
+</svg>
