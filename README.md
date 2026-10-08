@@ -25,7 +25,7 @@
 
 ## 🧭 At a glance
 
-| | |
+| | Details |
 |---|---|
 | **Role** | AI Solutions Engineer — architecture to production for on-premise LLM products |
 | **Focus** | Private RAG on company documents · tool-calling assistants · voice AI · AI for security |
